@@ -1,0 +1,10 @@
+{
+    "id": "gemini-side-notes",
+    "name": "Gemini Side Notes",
+    "version": "1.0.0",
+    "minAppVersion": "1.5.0",
+    "description": "Bi-directional side notes with AI assistance powered by Google Gemini",
+    "author": "ORESI",
+    "authorUrl": "https://github.com/oresi",
+    "isDesktopOnly": false
+}
